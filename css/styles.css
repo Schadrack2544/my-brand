@@ -3,6 +3,7 @@ body{
     margin:0;
     box-sizing: border-box;
     background-color:#111;
+    color:white !important;
 }
 
 form{
